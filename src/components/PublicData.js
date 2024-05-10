@@ -1,0 +1,32 @@
+export const Evaluaciones=[
+{
+    id_curso:1,
+    id_usuario:1,
+    nota:18
+},
+{
+    id_curso:2,
+    id_usuario:1,
+    nota:15
+},
+{
+    id_curso:1,
+    id_usuario:2,
+    nota:14
+},
+{
+    id_curso:3,
+    id_usuario:2,
+    nota:15
+},
+{
+    id_curso:2,
+    id_usuario:3,
+    nota:16
+},
+{
+    id_curso:3,
+    id_usuario:3,
+    nota:16
+}
+]
